@@ -1,0 +1,22 @@
+[08-Oct-2014 14:17:28 UTC] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/zantama1/public_html/app/controllers/AdminController.php on line 127
+[08-Oct-2014 14:17:32 UTC] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/zantama1/public_html/app/controllers/AdminController.php on line 127
+[08-Oct-2014 14:18:18 UTC] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/zantama1/public_html/app/controllers/AdminController.php on line 127
+[09-Oct-2014 10:01:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/zantama1/public_html/app/controllers/StaticController.php on line 53
+[09-Oct-2014 10:48:26 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/zantama1/public_html/app/storage/views/f5481395ad34bdbe9b6ada8d0567827f on line 34
+[09-Oct-2014 10:48:55 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/zantama1/public_html/app/storage/views/f5481395ad34bdbe9b6ada8d0567827f on line 34
+[09-Oct-2014 10:48:59 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/zantama1/public_html/app/storage/views/f5481395ad34bdbe9b6ada8d0567827f on line 34
+[09-Oct-2014 10:49:16 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/zantama1/public_html/app/storage/views/f5481395ad34bdbe9b6ada8d0567827f on line 34
+[18-Oct-2014 07:46:29 UTC] PHP Fatal error:  Call to undefined function Redirect() in /home/zantama1/public_html/app/controllers/StaticController.php on line 50
+[18-Oct-2014 08:33:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/zantama1/public_html/app/storage/views/59d94568e229cba9fdf56f0c859f8634 on line 45
+[21-Oct-2014 06:50:22 UTC] PHP Fatal error:  Call to undefined function Redirect() in /home/zantama1/public_html/app/controllers/StaticController.php on line 50
+[22-Oct-2014 04:57:42 UTC] PHP Fatal error:  Call to undefined function Redirect() in /home/zantama1/public_html/app/controllers/StaticController.php on line 50
+[22-Oct-2014 05:47:42 UTC] PHP Fatal error:  Call to undefined function Redirect() in /home/zantama1/public_html/app/controllers/StaticController.php on line 50
+[22-Oct-2014 05:48:25 UTC] PHP Fatal error:  Call to undefined function Redirect() in /home/zantama1/public_html/app/controllers/StaticController.php on line 50
+[26-Oct-2014 16:57:09 UTC] PHP Fatal error:  Class 'Timezone' not found in /home/zantama1/public_html/app/controllers/DataController.php on line 34
+[26-Oct-2014 16:58:06 UTC] PHP Fatal error:  Class 'Timezone' not found in /home/zantama1/public_html/app/controllers/DataController.php on line 34
+[26-Oct-2014 16:58:17 UTC] PHP Fatal error:  Class 'Timezone' not found in /home/zantama1/public_html/app/controllers/DataController.php on line 34
+[26-Oct-2014 17:00:06 UTC] PHP Fatal error:  Class 'Timezone' not found in /home/zantama1/public_html/app/controllers/DataController.php on line 34
+[26-Oct-2014 17:00:13 UTC] PHP Fatal error:  Class 'Timezone' not found in /home/zantama1/public_html/app/controllers/DataController.php on line 34
+[27-Oct-2014 11:34:33 UTC] PHP Fatal error:  Class 'TimeZone' not found in /home/zantama1/public_html/app/controllers/ExpertController.php on line 341
+[27-Oct-2014 11:35:12 UTC] PHP Fatal error:  Class 'TimeZone' not found in /home/zantama1/public_html/app/controllers/ExpertController.php on line 341
+[27-Oct-2014 11:37:50 UTC] PHP Fatal error:  Class 'TimeZone' not found in /home/zantama1/public_html/app/controllers/ExpertController.php on line 341

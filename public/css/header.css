@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'gothamr-l';
+    src:   url('fonts/gothamr-l.eot');
+    src:    url('fonts/gothamr-l.eot?#iefix') format('embedded-opentype'),
+     url('fonts/gothamr-l.woff') format('woff'),
+     url('fonts/gothamr-l.ttf') format('truetype'),
+     url('fonts/gothamr-l.svg#gothamr-l') format('svg');
+    font-weight:  normal;
+    font-style:  normal;
+}
+/* @import url(http://fonts.googleapis.com/css?family=Roboto:300); */
+#navbar li>a{ 
+    padding-top: 5px ;
+    padding-bottom: 5px ;
+    margin-top: 5px;
+}
+#navbar li {
+    list-style: none;
+    float: left;
+    /*margin-left: 5px;*/
+    padding: 0 !important;
+    text-align: center;
+}
+#navbar li:nth-child(3) a, #navbar li:nth-child(4) a {
+    display: block;
+    text-decoration: none;
+    color: #67c930;
+}
+#navbar li ul {
+    display: none;
+    width:100px;
+    height:70px;
+}
+#navbar li>a:hover{
+    background: #81fb3c;
+}
+#navbar li:hover ul {
+    display: block;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    z-index: 999;
+    background:#041F02 !important;
+}
+
+
+
+.set-border{
+  color: #fff !important;
+  padding-bottom: 10px !important;
+}
+/*///////////////////EDITED//////////////////////*/
+.navbar,.navbar-collapse,.navbar-header{
+	background:#041F02 !important;
+	border:none;
+	padding-bottom:0px !important;
+	border-radius: 0px;;
+}
+.brand,.brand:hover{
+	float:left;
+	width:190px;
+	margin: 5px 0 !important;
+	padding:0 !important;
+	
+}
+#sub-register, #sub-login{
+    background: #041F02;
+    float:left;
+    padding:0px;
+}
+#sub-register a, #sub-login a{
+    background: #041F02;
+    width:70px !important;
+    float:left;
+    padding-bottom:0px !important;
+}
+.navbar ul{
+	float:right;
+	padding-top:10px;
+}
+.navbar ul li a{
+	margin:2px;
+	color:#fff !important;
+	font-weight:100;
+}
+
+.navbar  a:hover{
+	margin:2px;
+	color:#fff !important;
+	background:#041F02 !important;
+}
+body{
+    
+    font-family: 'gothamr-l';
+	/* font-family: 'Roboto', sans-serif !important; */
+}
+ 

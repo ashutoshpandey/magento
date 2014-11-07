@@ -1,0 +1,11 @@
+$(function(){
+    $('.time2').hide();
+    $(".left-slide").click(function(){
+        $('.time1').fadeOut();
+        $('.time2').fadeIn();
+    });
+    $(".right-slide").click(function(){
+        $('.time2').fadeOut();
+        $('.time1').fadeIn();
+    });
+});

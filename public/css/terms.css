@@ -1,0 +1,28 @@
+.clear{
+    clear: both;
+}
+
+.container{
+    width: 100% !important;
+    padding-left: 0px!important;
+    padding-right: 0px !important;
+}
+.row{
+    width: 100%;
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+}
+.section{
+    width: 70%;
+    margin: auto;
+    padding-top: 30px;
+}
+
+/*-------------------------------------------menu------------------------------------*/
+
+.section p{
+    text-align: justify;
+}
+.section ul li{
+    text-align: justify;
+}

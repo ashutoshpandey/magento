@@ -1,0 +1,14 @@
+.modal-header{
+    color: #ffffff;
+}
+.modal-content{
+    background-color: rgb(4,31,2);
+}
+.modal-body{
+    text-align: center;
+}
+#country{
+    width: 90%;
+    height: 30px;
+    border-radius: 5px;
+}

@@ -1,0 +1,163 @@
+.ui-autocomplete {
+		cursor: default;
+		left: 0;
+		position: absolute;
+		top: 0;
+	}
+	.ui-autocomplete {list-style:none; padding:0; margin:0; background:#fff;}
+	.ui-autocomplete li{display:block; padding:0 15px; line-height:2em;}
+	.ui-autocomplete li:hover {background:#46651E; color: #fff;}
+	.ui-helper-hidden-accessible {display:none;}
+	
+	
+	.middle{
+		margin:0 auto;
+		margin-top:70px;
+	}
+	h1{
+		font-size:28px !important;
+	}
+	.middle2{
+		width:65%;
+		margin:0 auto;
+		margin-top:50px;
+        font-size:16px !important;
+	}
+	.search {
+		width:600px;
+		margin:0 auto;
+		margin-top:30px;
+		margin-bottom:50px;
+	}
+	.select{
+		width:600px;
+		font-size:18px;
+		padding:10px 15px;
+		border:2px solid #fff !important;
+		background: #fff;
+		margin: 0 auto;
+		color:#555;
+		font-weight:normal;
+	}
+	.select:focus{
+		outline:none;
+	}
+	.custom-combobox-toggle {
+		 border-color: #46651E #fff #fff;
+		 border-radius: 3px;
+		 border-style: solid;
+		 border-width: 15px 11px;
+		 height: 0;
+		 margin-left: -1px;
+		  padding: 0;
+		  position: absolute;
+		  right: 15px;
+		  top: 18px;
+		  z-index: 9;
+	}
+	.custom-combobox-toggle:focus{
+		outline:0;
+	}
+	.expert{
+		background: url("{{HTML::path("/public/img/img1.jpg")}}");
+		background-size: 100% 100%;
+		padding:0px;
+	}
+	.sub-div-h{
+		height:250px;
+		background:  url("{{HTML::path("/public/img/pattern.png")}}") rgba(0,0,0,0.2);
+		color: #fff;
+		padding:50px;
+        font-family: 'gothamr-l';
+		text-align: center;
+	}
+	.user-div{
+		background: url("{{HTML::path("/public/img/img2.jpg")}}");
+		background-size: 100% 100%;
+		padding:0px;
+	}
+	
+	.white a{
+		color: #fff;
+		padding:20px ;
+	}
+	.homepage-footer{
+		text-align:center;
+		background:#46651E;
+		padding-top:10px;
+	}
+	
+	.homepage-footer a{
+		color:#fff;
+		padding:5px 10px;
+		display: inline-block;
+	}
+ .navigation{
+    padding:70px 0 0 20px;
+    position:fixed;
+    right:0;
+    top:0;
+    background: rgba(4,31,2,0.6);
+    width:207px;
+    height:100%;
+    z-index:11;
+    margin-right:-207px;
+ }
+ .navigation a{
+    color: #fff;
+    display: list-item;
+    list-style:none;
+    text-transform: uppercase;
+    width:100%;
+    text-align: left;
+    cursor: pointer;
+ }
+
+ .navigation button{
+    border:none;
+    background: transparent;
+    color: #fff;
+    float: right;
+    margin-right: 20px;
+    margin-top: -50px;
+ }
+ #register, #login{
+    display:none;
+ }
+ #menu-btn{
+    position:absolute;
+    right:50px;
+    top:50px;
+    background: transparent;
+    color:#fff;
+    border:none;
+    box-sizing: border-box;
+ }
+ .bar{
+    display: list-item;
+    list-style: none;
+    width:25px;
+    height:3px;
+    margin:5px;
+    background:#fff;
+ }
+  @font-face {
+    font-family: 'gothamr-l';
+    src:   url('fonts/gothamr-l.eot');
+    src:    url('fonts/gothamr-l.eot?#iefix') format('embedded-opentype'),
+     url('fonts/gothamr-l.woff') format('woff'),
+     url('fonts/gothamr-l.ttf') format('truetype'),
+     url('fonts/gothamr-l.svg#gothamr-l') format('svg');
+    font-weight:  normal;
+    font-style:  normal;
+}
+#login, #register{
+    
+    width:100px !important;
+    font-size:13px;
+}
+#login a, #register a{
+color:#fff;
+text-transform: none;
+}
+.scombobox-list p{text-align: left !important;}

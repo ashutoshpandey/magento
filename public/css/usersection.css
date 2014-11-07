@@ -1,0 +1,86 @@
+.expertpic{
+    width: 70px;
+    height: 90px;
+    float: left;
+}
+.expertpic img{
+    width: 70px;
+    height: 90px;
+}
+.expertdetails{
+    float: left;
+    width: 200px;
+    margin-left: 20px;
+}
+.expertname{
+    color: #294e99;
+    font-size: 15px;
+    padding-top: 15px;
+}
+
+.dayheader{
+    color: black;
+    border-bottom: solid 1px #cdcdcd;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+.timediv{
+    float: left;
+    width: 120px;
+}
+
+.timeul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    padding-left: 10px;
+}
+.timeul li{
+    margin-bottom: 10px;
+}
+.timeul li span{
+    cursor: pointer;
+    color: #c93d2c;
+}
+.timeul li span:HOVER{
+    color: #294e99;
+    font-weight: 700;
+}
+
+.availability-slider{
+    overflow: auto;
+}
+
+.appointment-date{
+    font-size: 14px;
+}
+.appointment-time{
+    padding: 15px 0;
+    font-size: 14px;
+}
+
+.expert-full{
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
+
+.expertpic{
+    width: 100px;
+    height: 100px;
+}
+.expertinfo{
+    margin-bottom: 10px;
+    color: #1a1a1a;
+}
+.form-horizontal .has-feedback .form-control-feedback {
+    right: 0px !important;
+}
+#back-to-home{
+    cursor: pointer;
+}
+#back-to-home:hover{
+    color: #008000;
+}

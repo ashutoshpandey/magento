@@ -1,0 +1,74 @@
+.txt-box{
+    padding: 10px;
+    font-size: 13px;
+    color: #666666;
+}
+.txt-box p{
+    font-size: 13px;
+
+}
+.txt-box h4{
+    font-size: 13px;
+    color: #101010;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: normal !important;
+    word-wrap: break-word;
+}
+.txt-info{
+    width: 50%;
+    padding: 6px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #333;
+    text-shadow: 1px 1px 0 rgba(256,256,256,1.0);
+
+    background: #fff;
+    border: 1px solid #adadad;
+}
+.txt-dob{
+    width: 16%;
+    padding: 4px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #333;
+    text-shadow: 1px 1px 0 rgba(256,256,256,1.0);
+
+    background: #fff;
+    border: 1px solid #adadad;
+}
+
+select{
+    padding: 4px;
+}
+
+.expertpic{
+    width: 100px;
+    height: 100px;
+}
+.expertinfo{
+    margin-bottom: 10px;
+}
+
+.form-horizontal .has-feedback .form-control-feedback {
+    right: 0px !important;
+}
+.fee i{
+    border: 1px solid grey;
+    padding-left: 4px;
+}
+.fee input:focus{
+    outline: none;
+}
+i>input{
+    margin-left: 4px;
+    width: 90%;
+    border-bottom: 0;
+    border-top: 0;
+    border-right: 0;
+}
+.name-last input{
+    width: 90%;
+    padding-right: 0;
+}

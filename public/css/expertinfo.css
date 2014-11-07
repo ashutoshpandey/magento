@@ -1,0 +1,83 @@
+.expert-detail-data{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.expert-details{
+    width: 80%;
+    margin: auto;
+}
+
+.expert-availabilities{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: white;
+}
+div{
+    font-family: verdana, arial;
+    font-kerning: -5;
+    color: rgb(47,47,47);
+}
+
+.date-header{
+    padding: 0 !important;
+    border: 1px solid #b2b2b2;
+}
+/* Slider */
+.table-container {
+    margin: auto;
+    height:300px;
+    overflow:hidden;
+    padding: 0 !important;
+}
+
+.sliding-window {
+    min-width:200%; /* Total width of all columns in sliding-window + border widths */
+    height:300px;
+    overflow:hidden;
+}
+
+.sliding-window div {
+    float:left;
+    width:12.6%;
+    height:300px;
+}
+.arrow-nav{
+    padding: 0 !important;
+    border: 1px solid grey;
+    font-size: 18px;
+    text-align: center;
+    color: #a3a3a3;
+    cursor: pointer;
+}
+.arrow-nav:hover{
+    color: red;
+}
+.dayheader{
+    width: 100% !important;
+    height: 30px !important;
+    font-size: 13px;
+    font-family: verdana, geneva, arial, helvetica, sans-serif;
+    font-weight: bold;
+    border: 1px solid #b3b3b3;
+}
+.booktime{
+    height: 30px !important;
+    width: 100% !important;
+    padding-top: 5px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #00ca00;
+    border-bottom: 1px solid #ffffff;
+}
+.bookingtime{
+    cursor: pointer;
+}
+.form-horizontal .has-feedback .form-control-feedback {
+    right: 0px !important;
+}
+.no-left-padding{
+    padding-left: 0 !important;
+}
